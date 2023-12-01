@@ -1,11 +1,9 @@
 <?php
 /**
  * Plugin Name:       Additional Kit on Checkout
- * Plugin URI:        http://www.finaldatasolutions.com/
  * Description:       This plugin will add the additional kit on the checkout page.
  * Version:           3.2.0
- * Author:            Ibrar Ayoub
- * Author URI:        http://www.finaldatasolutions.com/
+ * Author:            Muhammad Umair
  */
 
 
